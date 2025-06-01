@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variable files
+.env
+
+# Python egg metadata
+*.egg-info/
+
+# Test cache
+.pytest_cache/
+
+# Output files
+*.out
